@@ -1,4 +1,4 @@
-# Commented out IPython magic to ensure Python compatibility.
+# Relação entre ingredientes e o sabor da bolacha
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -118,7 +118,7 @@ A = A[1:,:]
 #print(results.f_test(A))
 print(results.summary())
 
-# Commented out IPython magic to ensure Python compatibility.
+# Relção entre pulos e o batimento cardíaco
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
